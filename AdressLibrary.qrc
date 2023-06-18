@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/add brach.png</file>
+        <file>images/adress type.jpg</file>
+        <file>images/adress.png</file>
+        <file>images/delete.png</file>
+        <file>images/edit.png</file>
+        <file>images/icon.jpg</file>
+        <file>images/new.png</file>
+        <file>images/people.png</file>
+    </qresource>
+</RCC>
